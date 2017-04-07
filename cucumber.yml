@@ -1,0 +1,1 @@
+default: FIG_NEWTON_FILE=default.yml -t ~@not_ready --no-source --color --format pretty --format html --out test_results.html
